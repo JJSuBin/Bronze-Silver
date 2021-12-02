@@ -12,7 +12,7 @@
 ## 문제 리스트
   
   🥉브론즈🥉
-  - [뉴비의 기준을 뭘까?](https://www.acmicpc.net/problem/19944)
-  - [헛간 청약](https://www.acmicpc.net/problem/19698)
+  - [뉴비의 기준을 뭘까?](https://www.acmicpc.net/problem/19944) ✔️
+  - [헛간 청약](https://www.acmicpc.net/problem/19698) ✔️
 
   🥈실버🥈
