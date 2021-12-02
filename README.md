@@ -14,5 +14,10 @@
   🥉브론즈🥉
   - [뉴비의 기준을 뭘까?](https://www.acmicpc.net/problem/19944) ✔️
   - [헛간 청약](https://www.acmicpc.net/problem/19698) ✔️
+  - [Dog Treats](https://www.acmicpc.net/problem/19602) ✔️
+  - [가뭄(Small)](https://www.acmicpc.net/problem/19572) ✔️
+  - [Copying Homework](https://www.acmicpc.net/problem/19155) ➰
+  - [N M 찍기](https://www.acmicpc.net/problem/18883) ✔️
+  - [피드백](https://www.acmicpc.net/problem/18856) ✔️
 
   🥈실버🥈
