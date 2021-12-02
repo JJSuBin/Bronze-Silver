@@ -19,5 +19,7 @@
   - [Copying Homework](https://www.acmicpc.net/problem/19155) ➰
   - [N M 찍기](https://www.acmicpc.net/problem/18883) ✔️
   - [피드백](https://www.acmicpc.net/problem/18856) ✔️
+  - [X에 가장 가까운 값(The Nearest Value)](https://www.acmicpc.net/problem/18414) ✔️
+  - [시험(Exam)](https://www.acmicpc.net/problem/18411) ✔️
 
   🥈실버🥈
