@@ -21,5 +21,6 @@
   - [피드백](https://www.acmicpc.net/problem/18856) ✔️
   - [X에 가장 가까운 값(The Nearest Value)](https://www.acmicpc.net/problem/18414) ✔️
   - [시험(Exam)](https://www.acmicpc.net/problem/18411) ✔️
+  - [3개의 정수(Three Integers)](https://www.acmicpc.net/problem/18408) ✔️
 
   🥈실버🥈
